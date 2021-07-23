@@ -833,4 +833,6 @@
   <!-- ProtonAOSP snippet -->
   <include name="snippets/proton.xml"/>
 
+  <!-- Remove -->
+  <include name="snippets/remove.xml"/>
 </manifest>
